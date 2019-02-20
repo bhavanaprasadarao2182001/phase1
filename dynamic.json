@@ -1,0 +1,43 @@
+{
+	"profile":{
+		"img":"download.jpg",
+		"name":"Bhagyasree",
+		"rollno":"17NN1A1243",
+		"place":"guntur",
+		"email":"bhagyasree.somu@gmail.com"
+	},
+	"career":{
+		"info":"i want to become a good employee by utilizing my skills"
+	},
+	"education":[
+		{
+			"degree":"b.tech",
+			"institute":"vignan mirula",
+			"per":"90%",
+			"yop":"2017-21"
+		},
+		{
+			"degree":"intermediate",
+			"institute":"sri chaitanya",
+			"per":"94%",
+			"yop":"2015-17"
+		},
+		{
+			"degree":"s.s.c",
+			"institute":"oxford",
+			"per":"98%",
+			"yop":"2014-15"
+		}
+	],
+	"languages":[
+		{
+			"info":"english"
+		},
+		{
+			"info":"telugu"
+		},
+		{
+			"info":"hindi"
+		}
+	]
+}
